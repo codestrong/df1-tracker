@@ -24,7 +24,7 @@ public class Df1Tracker {
 	/**
 	 * How often to check the lobby for players (in seconds)
 	 */
-	private final static int CHECK_INTERVAL = 10;
+	private final static int CHECK_INTERVAL = 60;
 
 	/**
 	 * The lobby URL
